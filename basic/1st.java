@@ -41,7 +41,7 @@ class Transaction
 					{
 						tot-=5;
 					}
-          else if(trans<=1000)
+                                        else if(trans<=1000)
 					{
 						tot-=8;
 					}
